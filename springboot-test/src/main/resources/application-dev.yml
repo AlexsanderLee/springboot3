@@ -1,0 +1,4 @@
+
+resource:
+  imageServer: http://www.baidu-dev.com
+  emailServer: http://www.baidu-dev.com
